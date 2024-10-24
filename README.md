@@ -3,14 +3,14 @@
 ### Find me elsewhere 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andersonsaraiva)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/saraiva90)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://x.com/saraiva90)
 [![Website](https://img.shields.io/badge/Website-andersonsaraiva-black)](https://andersonsaraiva.github.io/)
 
 ## Hi there 👋
 
 I'm a software developer, I work with technologies like (Javascript, Typescript, Vue, Nuxt, Vuex, Pinia, Jest, GraphQL, Storybook, Vite, Vuetify, Tailwind, Node, Cypress), I love building web applications using VueJS ecosystem always focused on deliver a good experience to users following UI/UX best practices.
 
-🔭  I’m currently working on [Biobe](https://www.biobe.com.br) as Head of front end Engineering, a company from São Paulo, Brazil.
+🔭  I’m currently working on [Flui](https://www.useflui.com.br) as Head of Technology, a company from São Paulo, Brazil.
 
 <div style="display: inline_block">
   <br>
