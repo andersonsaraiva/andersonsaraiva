@@ -2,9 +2,9 @@
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andersonsaraiva)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://x.com/saraiva90)
-[![Website](https://img.shields.io/badge/Website-andersonsaraiva-black)](https://andersonsaraiva.github.io/)
+[![X](https://img.shields.io/badge/follow-%40andersonsaraiva-black?logo=x&logoColor=white)](https://x.com/andersonsaraiva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonsaraiva)
+[![Website](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome&logoColor=white)](https://andersonsaraiva.github.io/)
 
 ## Hi there 👋
 
